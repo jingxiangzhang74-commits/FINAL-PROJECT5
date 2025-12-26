@@ -1,0 +1,12 @@
+#ncyu {
+  position: relative;
+  border: solid 5px gold;
+  width: 310px;
+  margin: 20px 0;
+}
+
+.news {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
